@@ -6,17 +6,10 @@ My expertise lies in software development and creating microservices architectur
 I thrive on learning new technologies, solving complex problems, and contributing to innovative projects that make an impact
 
 ## 🛠️ Skills
-<p align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <!-- Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" title="Django"/>
-  <!-- Django REST Framework -->
-  <img src="https://img.icons8.com/color/48/000000/django-rest-framework.png" width="50" title="Django REST Framework"/>
-  <!-- RabbitMQ -->
-  <img src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-3629499-3030104.png" width="50" title="RabbitMQ"/>
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
-  <!-- FastAPI -->
-  <img src="https://img.icons8.com/color/48/000000/fastapi.png" width="50" title="FastAPI"/>
-</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
