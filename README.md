@@ -46,4 +46,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📡 Messaging & Streaming
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redpanda](https://img.shields.io/badge/Redpanda-FF0000?style=for-the-badge&logo=redpanda&logoColor=white)  
